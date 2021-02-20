@@ -1,0 +1,5 @@
+There is one data set which contains information about the passengers from Titanic.
+This data set describe multipe features about survived and non survived passengers.
+This application which uses Logistic Regression algorithm from skit learn library to train the data set and predict whether passenger survived or not.
+
+
